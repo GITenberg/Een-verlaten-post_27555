@@ -1,0 +1,27 @@
+_repo: Een-verlaten-post_27555
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Woude, Johanna van
+    alias: Junius, Sophie Margaretha Cornelia
+    birthdate: 1853
+    deathdate: 1904
+    gutenberg_agent_id: '32762'
+    url: http://www.gutenberg.org/2009/agents/32762
+description: ''
+gutenberg_issued: '2008-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27555'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch fiction'
+- !lcc 'PT'
+title: Een verlaten post
+url: http://www.gutenberg.org/ebooks/27555
